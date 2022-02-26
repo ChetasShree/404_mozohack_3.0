@@ -36,7 +36,7 @@ Smart ideas should not be limited by tracks. Feel free to open your heart out an
 
 
 ## **Link to our deployed website 🔗** 
-Link:  LINK OF WEBSITEEE HEREEEE
+Link: https://chetasshree.github.io/404_mozohack_3.0/
 
 ## About Our project 🔧
 
@@ -47,8 +47,11 @@ Babbler is a social media platform where user's privacy is given the most import
 On Babbler, users have the freedom to express their thoughts freely. They can anonymously post, share their ideas or secrets, open discussion threads, or vent on the platform without feeling any judgment and without the fear of having their data stolen. Babbler is simply a canvas where you can see just how complex or simple the thoughts from around the world can be.
 
 ### Screenshots 🖼️
-WEBSITE SS
 
+![2022-02-26 (1)](https://user-images.githubusercontent.com/75165587/155843650-240c81ee-eafb-4082-acd5-e467aec3d086.png)
+
+![2022-02-26 (2)](https://user-images.githubusercontent.com/75165587/155843653-948bcb5d-c410-4d51-b1b9-643262d7fa52.png)
+![2022-02-26 (3)](https://user-images.githubusercontent.com/75165587/155843654-eed933ad-b8d1-4e35-a780-f2760dbeb7c2.png)
 
 ## Technology Stack 💻
 
