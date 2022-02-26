@@ -74,6 +74,7 @@ Only developers.
 | Name      | GitHub Profile     |
 | :------------- | :----------: |
 |  Bhurva Sharma (Team Lead) | [GitHub]( https://github.com/Bhurva6) |
+|  Chetas Shree M| [GitHub]( https://github.com/ChetasShree) |
 |  Ayush Kumar  | [GitHub](https://github.com/ayushkumar05) |
 |  Srishti Rawat | [GitHub]( https://github.com/1psrishti) |
-|  Chetas Shree M| [GitHub]( https://github.com/ChetasShree) |
+
